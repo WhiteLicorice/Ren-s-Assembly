@@ -1,5 +1,5 @@
 # 🩻 Ren's Assembly 🩻
-This is a repository for lab work in CMSC 131 (Machine-Level Programming) with NASM. Paul Carter's [book](https://pacman128.github.io/pcasm/) is used extensively as a reference. It contains a `guide` on how to setup an environment for writing assembly programs in NASM. To follow along with the contents of this repository, it is advised to have a copy of the book.
+This is a repository for lab work in CMSC 131 (Machine-Level Programming) with NASM. Paul Carter's [book](https://pacman128.github.io/pcasm/) is used extensively as a reference. It contains a `guide` on how to set up a local environment for writing assembly programs in NASM. To follow along with the contents of this repository, it is advised to have a copy of the book.
 
 ## Lab 00
 
